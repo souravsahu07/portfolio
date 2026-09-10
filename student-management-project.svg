@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 600">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080d18"/><stop offset="1" stop-color="#151326"/></linearGradient>
+ <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101c32"/><stop offset="1" stop-color="#1b1434"/></linearGradient>
+</defs>
+<rect width="900" height="600" rx="28" fill="url(#bg)"/>
+<text x="55" y="65" fill="#b99cff" font-family="Arial" font-size="20" font-weight="700">STUDENT MANAGEMENT SYSTEM</text>
+<text x="55" y="98" fill="#9ca7bc" font-family="Arial" font-size="14">PYTHON + POSTGRESQL • CRUD</text>
+<rect x="100" y="145" width="700" height="355" rx="22" fill="#090e19" stroke="#39465e" stroke-width="3"/>
+<rect x="100" y="145" width="700" height="52" rx="22" fill="#121a2a"/>
+<circle cx="130" cy="171" r="7" fill="#e16b7c"/><circle cx="153" cy="171" r="7" fill="#e8c56c"/><circle cx="176" cy="171" r="7" fill="#68d3a2"/>
+<text x="220" y="178" fill="#d8dff0" font-family="Arial" font-size="14">student_management.py</text>
+<rect x="125" y="225" width="155" height="240" rx="12" fill="#101a2b"/>
+<text x="150" y="258" fill="#9a7cff" font-family="Arial" font-size="15" font-weight="700">DASHBOARD</text>
+<text x="150" y="300" fill="#d1d7e6" font-family="Arial" font-size="14">Students</text>
+<text x="150" y="338" fill="#d1d7e6" font-family="Arial" font-size="14">Add Student</text>
+<text x="150" y="376" fill="#d1d7e6" font-family="Arial" font-size="14">Search</text>
+<text x="150" y="414" fill="#d1d7e6" font-family="Arial" font-size="14">Settings</text>
+<rect x="305" y="225" width="465" height="240" rx="12" fill="url(#screen)" stroke="#283650"/>
+<text x="330" y="258" fill="#edf1fa" font-family="Arial" font-size="18" font-weight="700">Students</text>
+<rect x="330" y="278" width="410" height="36" rx="7" fill="#202b42"/>
+<text x="345" y="301" fill="#8290a8" font-family="Arial" font-size="12">NAME</text><text x="485" y="301" fill="#8290a8" font-family="Arial" font-size="12">ROLL NO.</text><text x="590" y="301" fill="#8290a8" font-family="Arial" font-size="12">COURSE</text>
+<g font-family="Arial" font-size="13" fill="#dce4f2">
+ <text x="345" y="344">Aman</text><text x="485" y="344">101</text><text x="590" y="344">CSE</text>
+ <text x="345" y="382">Riya</text><text x="485" y="382">102</text><text x="590" y="382">CSE</text>
+ <text x="345" y="420">Karan</text><text x="485" y="420">103</text><text x="590" y="420">ECE</text>
+</g>
+<g fill="#7e63ff"><rect x="665" y="332" width="54" height="22" rx="11"/><rect x="665" y="370" width="54" height="22" rx="11"/><rect x="665" y="408" width="54" height="22" rx="11"/></g>
+<g fill="#fff" font-family="Arial" font-size="10" text-anchor="middle"><text x="692" y="347">EDIT</text><text x="692" y="385">EDIT</text><text x="692" y="423">EDIT</text></g>
+<text x="55" y="550" fill="#9ca7bc" font-family="Arial" font-size="15">Store → update → search → delete → view student records</text>
+</svg>

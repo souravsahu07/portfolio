@@ -1,24 +1,36 @@
-# Sourav Sahu — Modern Portfolio
+# Sourav Sahu — Portfolio V3
 
-A responsive portfolio built with plain HTML, CSS and JavaScript.
+Modern, responsive developer portfolio built with HTML, CSS and JavaScript.
+
+## Included
+- Highlighted CV download beside GitHub and LinkedIn in the intro
+- Animated skill proficiency bars
+- C++ marked as "Currently Learning" at 25%
+- Technology-themed project visuals
+- Expanded project descriptions
+- Highlighted Contact navigation
+- Responsive mobile design
+- Your CV PDF included
+
+## Deploy
+Upload all files to the same GitHub repository. If the repository is already connected to Vercel, pushing the changes will trigger a new deployment automatically.
 
 ## Files
-- `index.html` — portfolio structure/content
-- `style.css` — responsive modern dark UI
-- `script.js` — scroll reveals, mobile navigation and smooth scrolling
-- `assets/Sourav-Sahu-CV.pdf` — CV supplied for the portfolio
+index.html
+style.css
+script.js
+Sourav_Sahu_CV.pdf
+README.md
 
-## Run locally
-Open `index.html` in a browser, or use VS Code Live Server.
 
-## Publish on GitHub Pages
-1. Create a GitHub repository (for example `portfolio`).
-2. Upload all files/folders from this package.
-3. Go to **Settings → Pages**.
-4. Select **Deploy from a branch**, choose `main` and `/root`.
-5. Save. GitHub will provide the live URL.
+### V4 changes
+- Shortened the hero text under the name.
+- Expanded the About section with four additional lines.
+- Added visual project previews in front of each project description.
+- Added one extra descriptive line to each project.
 
-## Before publishing
-- Replace the LinkedIn placeholder URL in `index.html` with your real LinkedIn profile URL.
-- If you want a profile photo, replace the `SS` avatar block with an image.
-- Add GitHub/demo links to future projects when available.
+- V5: compacted skill cards and grouped skills two per row with shorter proficiency bars.
+
+- V6: exactly two skills per row and smaller completion bars.
+
+- V7: changed the actual skill list to two columns so each learning bar occupies only half the page width.
